@@ -35,7 +35,7 @@ if ($time_elapsed_secs > 60) {
 }
 
 echo "Finished in {$time_elapsed_secs}";
-
+//end of #1 task
 
 //#2 task
 //my code start
@@ -63,3 +63,4 @@ function findUniqueString($string_name){
 
 //test start
 echo findUniqueString('hashthegame');
+//end of #2 task
